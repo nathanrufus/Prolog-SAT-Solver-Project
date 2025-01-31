@@ -1,1 +1,0 @@
-# Prolog-SAT-Solver-Project
